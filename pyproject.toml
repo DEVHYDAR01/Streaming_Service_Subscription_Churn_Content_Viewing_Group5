@@ -1,0 +1,25 @@
+[project]
+name = "streaming-churn-group5"
+version = "0.1.0"
+description = "EPITA DEP TP1 Group 5 - Streaming Service Subscription Churn & Content Viewing"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "scikit-learn",
+    "scipy",
+]
+
+[dependency-groups]
+dev = [
+    "jupyterlab",
+    "ipykernel",
+    "nbconvert",
+    "nbformat",
+    "jupytext>=1.19.6",
+]
+
+[tool.uv]
+package = false
