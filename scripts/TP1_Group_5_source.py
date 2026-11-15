@@ -130,7 +130,7 @@ def annotate_bars(ax, bars, labels, fontsize=9, y_offset=0.012):
 
 
 print("Environment ready.")
-print(f"Source data: {DATA_PATH.resolve()}")
+print(f"Source data: {DATA_PATH}")
 
 # %% [markdown]
 # ---
