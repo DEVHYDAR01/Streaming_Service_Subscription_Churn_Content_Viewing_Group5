@@ -1,7 +1,7 @@
 # Travaux Dirigés / Pratiques 1 (TP 1) : Advanced Data Detective
 **Institution :** EPITA — School of Engineering and Computer Science  
 **Module :** DEP (Exploratory Data Analysis) — Specialization Lab  
-**Group Assignment :** Group 5  
+**Group Assignment :** Group 5 (Raiyan Rabbani (raiyan.rabbani), Prathmesh Surve (prathmesh.surve), Aliyu Ahmad (aliyu.ahmad) and Daakshayani Neelamegam Senthilkumar (daakshayani.neelamegam-senthilkumar)) 
 **Domain Topic :** Streaming Service Subscription Churn & Content Viewing  
 **Dataset Source :** synthetic  
 **Dataset Profile :** 5200 sampled rows, 14 columns  
